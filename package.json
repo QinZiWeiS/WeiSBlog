@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "维维梓",
+  "license": "1.00",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^1.9.9"
+  },
+  "dependencies": {
+    "vuepress-theme-melodydl": "^1.1.2"
+  }
+}
