@@ -91,8 +91,7 @@ module.exports = {
       },
 
       // 添加自定义 footer
-      custom: `Copyright &copy; WeiS Blog 2023 <br />
-        Theme By <a href="https://www.vuepress.cn/" target="_blank">VuePress</a>`,
+      custom: `Copyright &copy; WeiS Blog 2023`,
     },
 
     // 分页配置
