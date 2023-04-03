@@ -82,8 +82,7 @@ module.exports = {
       // gitbutton  配置
       gitbtn: {
         // 仓库地址
-        repository:
-          "https://ghbtns.com/github-btn.html?user=youdeliang&repo=vuepress-theme-top&type=star&count=true",
+        repository: "https://github.com/QinZiWeiS/QinZiWeiS.github.io",
         frameborder: 0,
         scrolling: 0,
         width: "80px",
